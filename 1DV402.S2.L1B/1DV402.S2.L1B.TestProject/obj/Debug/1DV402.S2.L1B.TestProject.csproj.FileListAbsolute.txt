@@ -1,0 +1,7 @@
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\bin\Debug\1DV402.S2.L1B.TestProject.dll
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\bin\Debug\1DV402.S2.L1B.TestProject.pdb
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\bin\Debug\1DV402.S2.L1B.exe
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\bin\Debug\1DV402.S2.L1B.pdb
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\obj\Debug\1DV402.S2.L1B.TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\obj\Debug\1DV402.S2.L1B.TestProject.dll
+C:\Users\Ludwig\Downloads\2-1-b-gissa-det-hemliga-talet-master\1DV402.S2.L1B\1DV402.S2.L1B.TestProject\obj\Debug\1DV402.S2.L1B.TestProject.pdb
